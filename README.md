@@ -1,7 +1,17 @@
 # Building practical tools for serious builders
-<!-- profile-readme-refresh: 2026-06-01 -->
 
 I build open source tools that make local development sharper: faster feedback, better testing, clearer data, more useful automation, and fewer hidden risks in the systems people maintain every day.
+
+## GitHub activity
+
+I like shipping complete, inspectable projects: code, docs, tests, examples, and the little bits of polish that make a tool feel finished.
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wealthzxagamer&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub stats for wealthzxagamer" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=wealthzxagamer&hide_border=true&theme=transparent" alt="GitHub contribution streak for wealthzxagamer" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wealthzxagamer&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph for wealthzxagamer" />
 
 ## Practical developer and AI tools
 
