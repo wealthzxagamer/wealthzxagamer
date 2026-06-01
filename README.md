@@ -1,4 +1,5 @@
 # Building practical tools for serious builders
+<!-- profile-readme-refresh: 2026-06-01 -->
 
 I build open source tools that make local development sharper: faster feedback, better testing, clearer data, more useful automation, and fewer hidden risks in the systems people maintain every day.
 
