@@ -1,35 +1,60 @@
-# Building practical tools for serious builders
+# Hi, I'm wealthzxagamer **local-first tool builder** | **open source shipper** | **developer-experience nerd**
 
-I build open source tools that make local development sharper: faster feedback, better testing, clearer data, more useful automation, and fewer hidden risks in the systems people maintain every day.
+I build practical tools that make local development sharper: faster feedback, clearer data, better tests, useful automation, and fewer hidden risks in the systems people maintain every day.
 
-## GitHub activity
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Testing](https://img.shields.io/badge/-Testing-25A162?style=flat-square&logo=vitest&logoColor=white)
+![Open Source](https://img.shields.io/badge/-Open_Source-181717?style=flat-square&logo=github&logoColor=white)
 
-I like shipping complete, inspectable projects: code, docs, tests, examples, and the little bits of polish that make a tool feel finished.
+## 🚀 Start Here
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wealthzxagamer&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub stats for wealthzxagamer" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=wealthzxagamer&hide_border=true&theme=transparent" alt="GitHub contribution streak for wealthzxagamer" />
-</p>
+- **[GitPulse](https://github.com/wealthzxagamer/gitpulse)** - local Git repository health analysis for hotspots, ownership concentration, and co-change coupling.
+- **[Tinsel](https://github.com/wealthzxagamer/tinsel)** - build-time full-text search for static sites with an offline browser runtime.
+- **[DeltaTree](https://github.com/wealthzxagamer/deltatree)** - semantic diff and policy gates for JSON, YAML, and TOML-like configuration.
+- **[Reaper](https://github.com/wealthzxagamer/reaper)** - conservative dead-code and unused-export detection for JavaScript, TypeScript, and Python.
+- **[Conjecture](https://github.com/wealthzxagamer/conjecture)** - property-based testing with deterministic generation and tape-based shrinking.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wealthzxagamer&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph for wealthzxagamer" />
+## 🧰 Current Projects
 
-## Practical developer and AI tools
+### Repo Intelligence & Code Quality
 
-My focus is on small, inspectable tools that run locally, explain their output clearly, and help developers make better decisions without adding a service dependency. I care about useful defaults, readable implementation, strong examples, and tests that prove the core behavior.
+- **[GitPulse](https://github.com/wealthzxagamer/gitpulse)** - find risky files, ownership bottlenecks, and change patterns hiding inside Git history.
+- **[Reaper](https://github.com/wealthzxagamer/reaper)** - catch unused exports and dead code without pretending static analysis is magic.
+- **[Crit](https://github.com/wealthzxagamer/crit)** - benchmark statistics and regression checks with bootstrap confidence intervals.
 
-## Current tool set
+### Testing, Data & Local Automation
 
-- [GitPulse](https://github.com/wealthzxagamer/gitpulse) - local Git repository health analysis for hotspots, ownership concentration, and co-change coupling.
-- [Tinsel](https://github.com/wealthzxagamer/tinsel) - build-time full-text search for static sites with an offline browser runtime.
-- [DeltaTree](https://github.com/wealthzxagamer/deltatree) - semantic diff and policy gates for JSON, YAML, and TOML-like configuration.
-- [Reaper](https://github.com/wealthzxagamer/reaper) - conservative dead-code and unused-export detection for JavaScript, TypeScript, and Python.
-- [Conjecture](https://github.com/wealthzxagamer/conjecture) - property-based testing with deterministic generation and tape-based shrinking.
-- [Forge](https://github.com/wealthzxagamer/forge) - deterministic relational fake data generation with referential integrity.
-- [Mesh](https://github.com/wealthzxagamer/mesh) - a compact local-first CRDT library for collaborative text and JSON.
-- [HexSpec](https://github.com/wealthzxagamer/hexspec) - declarative binary format inspection with byte-spanned parse trees.
-- [PlanScope](https://github.com/wealthzxagamer/planscope) - SQL EXPLAIN analysis with self-time math and heuristic index advice.
-- [Crit](https://github.com/wealthzxagamer/crit) - benchmark statistics and regression checks with bootstrap confidence intervals.
+- **[Conjecture](https://github.com/wealthzxagamer/conjecture)** - property-based testing with reproducible generation and shrink traces.
+- **[Forge](https://github.com/wealthzxagamer/forge)** - deterministic relational fake data with referential integrity.
+- **[PlanScope](https://github.com/wealthzxagamer/planscope)** - SQL EXPLAIN analysis with self-time math and index advice.
 
-## Collaboration
+### Search, Sync & Structured Formats
 
-Contributions, issue reports, and thoughtful ideas are welcome. I am especially interested in tools that stay simple to run, honest about their limits, and useful on the first day someone clones them.
+- **[Tinsel](https://github.com/wealthzxagamer/tinsel)** - static-site search that runs at build time and needs no backend.
+- **[Mesh](https://github.com/wealthzxagamer/mesh)** - compact local-first CRDT primitives for collaborative text and JSON.
+- **[HexSpec](https://github.com/wealthzxagamer/hexspec)** - declarative binary format inspection with byte-spanned parse trees.
+- **[DeltaTree](https://github.com/wealthzxagamer/deltatree)** - readable config diffs and policy checks before a change gets expensive.
+
+## 📈 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/wealthzxagamer)
+
+## 🛠️ What I'm Building Toward
+
+- **Useful on clone** - tools should explain themselves quickly and ship with examples that actually run.
+- **Local by default** - inspectable code, no surprise service dependency, no hidden data handoff.
+- **Clear output** - a good tool should tell you what it found, why it matters, and what to try next.
+- **Small sharp edges** - focused utilities beat giant platforms when the problem is specific.
+
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wealthzxagamer)
+
+## ✨ Philosophy
+
+> Ship the useful thing, make it understandable, then keep sharpening it.
+
+I like tools that stay honest about their limits, feel calm to use, and help builders move with more confidence.
